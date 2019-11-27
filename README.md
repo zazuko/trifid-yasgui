@@ -1,3 +1,7 @@
+# Deprecated
+
+Use [trifid-plugin-yasgui](https://github.com/zazuko/trifid-plugin-yasgui) instead.
+
 # trifid-yasgui
 
 YASGUI for Trifid.
